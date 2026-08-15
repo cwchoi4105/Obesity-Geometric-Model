@@ -18,20 +18,18 @@ and Rockets, 3(3):446–448, 1966. <br>
 segment parameters of the bulgarian population using a 16-segmental mathematical model.
 Journal of biomechanics, 40(16):3700–3707, 2007.<br>
 [4] Zachary Merrill, Subashan Perera, and Raki´e Cham. Predictive regression modeling of body
-segment parameters using individual-based anthropometric measurements. Journal of biome-
-chanics, 96:109349, 2019.<br>
-[5] Claire C Gordon, Cynthia L Blackwell, Bruce Bradtmiller, Joseph L Parham, Patricia Barri-
-entos, Stephen P Paquette, Brian D Corner, Jeremy M Carson, Joseph C Venezia, Belva M
-Rockwell, et al. 2012 anthropometric survey of us army personnel: Methods and summary
+segment parameters using individual-based anthropometric measurements. Journal of biomechanics, 96:109349, 2019.<br>
+[5] Claire C Gordon, Cynthia L Blackwell, Bruce Bradtmiller, Joseph L Parham, Patricia Barrientos, Stephen P Paquette, Brian D Corner, Jeremy M Carson, Joseph C Venezia, Belva M
+Rockwell, et al. 2012 anthropometric survey of US Army personnel: Methods and summary
 statistics. Army Natick Soldier Research Development and Engineering Center MA, Tech. Rep,
 2014.<br>
-[6] Hyeg Choi, Todd Garlie, K Mitchell, Hyeg J Choi, and KB Mitchell. Effects of anthropometrics
+[6] Hyegjoo E. Choi Choi, Todd Garlie, K Mitchell, Hyeg J Choi, and KB Mitchell. Effects of anthropometrics
 and body size changes on the development of personal protective equipment (ppe) sizing systems
 in the us army. US Army Natick Soldier Research, Development and Engineering Center Natick,
 2016.<br>
 [7] Centers for Disease Control and National Center for Health Statistics (NCHS) Preven-
 tion (CDC). National health and nutrition examination survey questionnaire. Hyattsville, MD:
-U.S. Department of Health and Human Services, Centers for Disease Control and Prevention.<br>
+U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2018.<br>
 [8] K Kotani, K Tokunaga, S Fujioka, T Kobatake, Y Keno, S Yoshida, I Shimomura, S Tarui,
 and Y Matsuzawa. Sexual dimorphism of age-related changes in whole-body fat distribution
 in the obese. International journal of obesity and related metabolic disorders: journal of the
