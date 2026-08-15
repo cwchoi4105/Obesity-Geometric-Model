@@ -9,35 +9,33 @@ aligned the end of the chest depth with the depth of the waist and the depth of 
 
 <img width="1475" height="1523" alt="image" src="https://github.com/user-attachments/assets/7f38e68f-8adc-4e8e-9cdb-b26a623f65c9" />
 
-## Repository Contents
-
-References
+## References
 [1] Ernest P Hanavan. A mathematical model of the human body, volume 32. Aerospace Medical
-Research Laboratories, Aerospace Medical Division, Air Force Systems Command, 1964.
+Research Laboratories, Aerospace Medical Division, Air Force Systems Command, 1964.<br>
 [2] Ernest P Hanavan. A personalized mathematical model of the human body. Journal of Spacecraft
-and Rockets, 3(3):446–448, 1966.
+and Rockets, 3(3):446–448, 1966. <br>
 [3] Gergana Stefanova Nikolova and Yuli Emilov Toshev. Estimation of male and female body
 segment parameters of the bulgarian population using a 16-segmental mathematical model.
-Journal of biomechanics, 40(16):3700–3707, 2007.
+Journal of biomechanics, 40(16):3700–3707, 2007.<br>
 [4] Zachary Merrill, Subashan Perera, and Raki´e Cham. Predictive regression modeling of body
 segment parameters using individual-based anthropometric measurements. Journal of biome-
-chanics, 96:109349, 2019.
+chanics, 96:109349, 2019.<br>
 [5] Claire C Gordon, Cynthia L Blackwell, Bruce Bradtmiller, Joseph L Parham, Patricia Barri-
 entos, Stephen P Paquette, Brian D Corner, Jeremy M Carson, Joseph C Venezia, Belva M
 Rockwell, et al. 2012 anthropometric survey of us army personnel: Methods and summary
 statistics. Army Natick Soldier Research Development and Engineering Center MA, Tech. Rep,
-2014.
+2014.<br>
 [6] Hyeg Choi, Todd Garlie, K Mitchell, Hyeg J Choi, and KB Mitchell. Effects of anthropometrics
 and body size changes on the development of personal protective equipment (ppe) sizing systems
 in the us army. US Army Natick Soldier Research, Development and Engineering Center Natick,
-2016.
+2016.<br>
 [7] Centers for Disease Control and National Center for Health Statistics (NCHS) Preven-
 tion (CDC). National health and nutrition examination survey questionnaire. Hyattsville, MD:
-U.S. Department of Health and Human Services, Centers for Disease Control and Prevention.
+U.S. Department of Health and Human Services, Centers for Disease Control and Prevention.<br>
 [8] K Kotani, K Tokunaga, S Fujioka, T Kobatake, Y Keno, S Yoshida, I Shimomura, S Tarui,
 and Y Matsuzawa. Sexual dimorphism of age-related changes in whole-body fat distribution
 in the obese. International journal of obesity and related metabolic disorders: journal of the
-International Association for the Study of Obesity, 18(4):207–202, 1994.
+International Association for the Study of Obesity, 18(4):207–202, 1994.<br>
 [9] F Ghezelbash, Aboulfazl Shirazi-Adl, N Arjmand, Z El-Ouaaid, A Plamondon, and JR Meakin.
 Effects of sex, age, body height and body weight on spinal loads: Sensitivity analyses in a
 subject-specific trunk musculoskeletal model. Journal of biomechanics, 49(14):3492–3501, 2016.
