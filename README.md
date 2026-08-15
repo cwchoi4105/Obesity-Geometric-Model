@@ -28,8 +28,7 @@ statistics. Army Natick Soldier Research Development and Engineering Center MA, 
 and body size changes on the development of personal protective equipment (ppe) sizing systems
 in the us army. US Army Natick Soldier Research, Development and Engineering Center Natick,
 2016.<br>
-[7] Centers for Disease Control and National Center for Health Statistics (NCHS) Preven-
-tion (CDC). National health and nutrition examination survey questionnaire. Hyattsville, MD:
+[7] Centers for Disease Control and National Center for Health Statistics (NCHS) Prevention (CDC). National health and nutrition examination survey questionnaire. Hyattsville, MD:
 U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2018.<br>
 [8] K Kotani, K Tokunaga, S Fujioka, T Kobatake, Y Keno, S Yoshida, I Shimomura, S Tarui,
 and Y Matsuzawa. Sexual dimorphism of age-related changes in whole-body fat distribution
